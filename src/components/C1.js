@@ -8,11 +8,11 @@ class C1 extends Component{
                 <nav class="navbar bg-gradient-light mt-3" style={{backgroundColor:"#F9F6F0"}}>
                     <Link to="/" class="navbar-brand"><img src={logo_png} alt='pic' style={{width:"300px"}}></img></Link>
                     <div class="nav" >
-                        <Link to="/" class="nav-link" style={{color:"#710117",fontWeight:"bolder",fontFamily:'sans-serif'}}>Home</Link>
-                        <Link to="/about" class="nav-link" style={{color:"#710117",fontWeight:"bolder",fontFamily:'sans-serif'}}>About</Link>
-                        <Link to="/projects" class="nav-link" style={{color:"#710117",fontWeight:"bolder",fontFamily:'sans-serif'}}>Experiences and Projects</Link>
-                        <Link to="/certificates" class="nav-link" style={{color:"#710117",fontWeight:"bolder",fontFamily:'sans-serif'}}>Certificates</Link>
-                        <Link to="/contact" class="nav-link"  style={{color:"#710117",fontWeight:"bolder",fontFamily:'sans-serif'}}>Contact</Link>
+                        <Link to="/" class="nav-link" style={{color:'darksalmon',fontWeight:"bolder",fontFamily:'sans-serif'}}>Home</Link>
+                        <Link to="/about" class="nav-link" style={{color:'darksalmon',fontWeight:"bolder",fontFamily:'sans-serif'}}>About</Link>
+                        <Link to="/projects" class="nav-link" style={{color:'darksalmon',fontWeight:"bolder",fontFamily:'sans-serif'}}>Experiences and Projects</Link>
+                        <Link to="/certificates" class="nav-link" style={{color:'darksalmon',fontWeight:"bolder",fontFamily:'sans-serif'}}>Certificates</Link>
+                        <Link to="/contact" class="nav-link"  style={{color:'darksalmon',fontWeight:"bolder",fontFamily:'sans-serif'}}>Contact</Link>
                     </div>
                 </nav>
             </div>
