@@ -14,3 +14,7 @@
 .nedu{
     display: none;
 }
+.nav-link:hover
+{
+    border:3px solid sandybrown;
+}
