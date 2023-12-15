@@ -16,7 +16,7 @@ export function Home(){
                                 <h3 class="card-title" style={{textAlign:"center",fontFamily:"italic",textDecoration:"underline"}}>Karnam Nithin</h3>
                                 <p style={{fontFamily:"cursive",textAlign:"center",fontSize:"25px"}}>Web Developer(Mern Stack)</p>
                                 <p style={{fontFamily:"cursive",textAlign:"center",fontSize:"25px"}}>Machine learning Engineer</p>
-                                <p style={{fontFamily:"cursive",textAlign:"center",fontSize:"25px"}}>Data Analyst(Beginer)</p>
+                                <p style={{fontFamily:"cursive",textAlign:"center",fontSize:"25px"}}>Data Analyst(Beginner)</p>
     
                             </div>
                         </div>
