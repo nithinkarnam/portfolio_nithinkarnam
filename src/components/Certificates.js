@@ -4,7 +4,7 @@ import sql from './sqlhr.png';
 import pythonevery from './pythonevery.png';
 import dsainc from './dsainc.png';
 import cppiitb from './cppiitbombay.png';
-import MERNSTACK from './dsainc.png';
+import MERNSTACK from './mern_ethnus.png';
 
 class Certificates extends Component {
     render() {
