@@ -4,6 +4,7 @@ import artgallery from './artgallery.png';
 import fertilizerforecast from './fertilizerforecast.png';
 import destidive from './destidive.png';
 import agecalculator from './agecalculator.png'
+import tdetec from './tigerdetec.png'
 class Projects extends Component{
     render(){
         return(
@@ -53,6 +54,17 @@ class Projects extends Component{
                                         <a class="text-decoration-none  text-primary" href="https://github.com/nithinkarnam/model_prediction-fertilizer" target="_blank">Git repository Link </a>
                                         &ensp; &ensp;
                                         <a class="text-decoration-none  text-primary" href="https://nithinkarnam-model-prediction-fertilizer-app-dkrlhs.streamlit.app/" target="_blank">Website Link</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card mb-10">
+                                    <div class="card-image-top text-center"><img style={{height:"10rem"}} class="img-fluid" src={tdetecprj}  alt="pic"></img></div>
+                                    <div class="card-body">
+                                        <h3 class="card-title">Tiger Detection and classification using Transfer Learning</h3>
+                                        <a class="text-decoration-none  text-primary" href="https://github.com/nithinkarnam/tigerdetectiondlresnet" target="_blank">Git repository Link </a>
+                                        &ensp; &ensp;
+                                        <a class="text-decoration-none  text-primary" href="#" target="_blank">Website Link</a>
                                     </div>
                             </div>
                         </div>
