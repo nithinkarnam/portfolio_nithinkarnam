@@ -79,17 +79,6 @@ class Projects extends Component{
                                     </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="card mb-10">
-                                    <div class="card-image-top text-center"><img style={{height:"10rem"}} class="img-fluid" src={agecalculator}  alt="pic"></img></div>
-                                    <div class="card-body">
-                                        <h3 class="card-title">Age Calculator</h3>
-                                        <a class="text-decoration-none  text-primary" href="https://github.com/nithinkarnam/agecalculator_mern" target="_blank">Git repository Link </a>
-                                        &ensp; &ensp;
-                                        <a class="text-decoration-none  text-primary" href="hhttps://agecalculator-mern.vercel.app/" target="_blank">Website Link</a>
-                                    </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
