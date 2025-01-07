@@ -59,7 +59,7 @@ class Projects extends Component{
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="card mb-10">
-                                    <div class="card-image-top text-center"><img style={{height:"10rem"}} class="img-fluid" src={tdetecprj}  alt="pic"></img></div>
+                                    <div class="card-image-top text-center"><img style={{height:"10rem"}} class="img-fluid" src={tdetec}  alt="pic"></img></div>
                                     <div class="card-body">
                                         <h3 class="card-title">Tiger Detection and classification using Transfer Learning</h3>
                                         <a class="text-decoration-none  text-primary" href="https://github.com/nithinkarnam/tigerdetectiondlresnet" target="_blank">Git repository Link </a>
