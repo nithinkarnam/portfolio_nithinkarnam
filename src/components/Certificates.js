@@ -5,6 +5,7 @@ import pythonevery from './pythonevery.png';
 import dsainc from './dsainc.png';
 import cppiitb from './cppiitbombay.png';
 import MERNSTACK from './mern_ethnus.png';
+import gccfcerti from './gccfme.png';
 
 class Certificates extends Component {
     render() {
@@ -50,6 +51,14 @@ class Certificates extends Component {
                                 <img src={dsainc} alt="pic" className="img-top img-fluid" />
                                 <div className="card-body">
                                     <h3 className="card-title">Data Structures in C</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col">
+                            <div className="card">
+                                <img src={gccfcerti} alt="pic" className="img-top img-fluid" />
+                                <div className="card-body">
+                                    <h3 className="card-title mt-1">Google Cloud Computing Foundation</h3>
                                 </div>
                             </div>
                         </div>
