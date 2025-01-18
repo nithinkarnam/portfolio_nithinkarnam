@@ -1,4 +1,4 @@
-import pass_photo from './pass_photo.png'
+import pass_photo from './mypspic.png'
 import './style.css'
 import { Component } from 'react'
 class About extends Component{
