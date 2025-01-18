@@ -21,7 +21,7 @@ class About extends Component{
                                 <div class="card-body">
                                     <h3 class="card-title">Karnam Nithin</h3>
                                     <p >
-                                        Greetings! I'm Nithin, currently pursuing my undergraduate studies at Vellore Institute of Technology, Chennai. I possess a solid understanding of machine learning—while I'm not a complete beginner, I'm still on the journey to becoming an expert. My programming skills are well-grounded in languages like C, C++, Python and Java. Presently, I'm actively engaged in web development using the MERN stack. I have a strong inclination and ability for rapid learning.
+                                        Greetings! I'm Nithin, an undergraduate student at Vellore Institute of Technology, Chennai, with a strong foundation in machine learning and a keen interest in advancing my expertise in the field. I possess proficiency in several programming languages, including C, C++, Python, and Java, which allows me to approach complex problems with versatility. Currently, I'm honing my skills in full-stack web development, particularly within the MERN stack, and actively contributing to building dynamic, scalable applications. With a strong aptitude for rapid learning and a passion for leveraging technology to solve real-world problems, I am committed to continuous growth and developing innovative solutions across various domains.
                                     </p>
                                     <button  style={{width:"10rem",backgroundColor:"white"}} onClick={()=>{this.setState({isDisplaySkills:false,isDisplayEduaction:!this.state.isDisplayEduaction})}}>Education details</button>
                                     <button  style={{width:"10rem",backgroundColor:"white",borderLeft:"none"}} onClick={()=>{this.setState({isDisplaySkills:!this.state.isDisplaySkills,isDisplayEduaction:false})}}>Skills</button>
@@ -33,6 +33,7 @@ class About extends Component{
                                                 <th>College</th>
                                                 <th>Loaction</th>
                                                 <th>Year</th>
+                                                <th>Grade</th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -41,18 +42,21 @@ class About extends Component{
                                                 <td>Vellore Institue of Technology</td>
                                                 <td>Chennai</td>
                                                 <td>2021-Present</td>
+                                                <td>9.34 CGPA</td>
                                             </tr>
                                             <tr>
                                                 <td>Intermediate</td>
                                                 <td>Narayana Jr.College</td>
                                                 <td>Tirupati</td>
                                                 <td>2019-2021</td>
+                                                <td>96.6%</td>
                                             </tr>
                                             <tr>
                                                 <td>Secondary School</td>
                                                 <td>Ratnam High School</td>
                                                 <td>Tirupati</td>
                                                 <td>2018-2019</td>
+                                                <td>10.0 CGPA</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -62,15 +66,15 @@ class About extends Component{
                                         <tbody>
                                             <tr>
                                                 <th>programming languages</th>
-                                                <td>C, C++,python, Java</td>
+                                                <td>C, C++,Python, Java</td>
                                             </tr>
                                             <tr>
                                                 <th>Web development</th>
-                                                <td>HTML, CSS, Bootstrap, Java Script, React, Mongo</td>
+                                                <td>HTML, CSS, Bootstrap, Java Script, React, Mongo,MySQL</td>
                                             </tr>
                                             <tr>
-                                                <th>Other Technologies</th>
-                                                <td>Machine Learning, MySQL</td>
+                                                <th>Artificial Intelligence</th>
+                                                <td>Machine Learning (Predictive Modeling, Classification, Regression, Ensemble Methods, Model Evaluation), Deep Learning (CNN, RNN, Seq2Seq, Transformers, GANs, Transfer Learning), NLP (Sentiment Analysis, Text Generation, Named Entity Recognition, Language Modeling, Question Answering), Machine Vision (Object Detection, Image Classification, Image Segmentation, OCR, Feature Extraction, Keypoint Detection, Image Enhancement)</td>
                                             </tr>
                                             <tr>
                                                 <th>Hosting Platforms</th>
