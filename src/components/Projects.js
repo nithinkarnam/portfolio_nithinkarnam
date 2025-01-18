@@ -5,6 +5,7 @@ import fertilizerforecast from './fertilizerforecast.png';
 import destidive from './destidive.png';
 import agecalculator from './agecalculator.png'
 import tdetec from './tigerdetec.png'
+import custchurn from './custchurnprj.png'
 class Projects extends Component{
     render(){
         return(
@@ -44,6 +45,17 @@ class Projects extends Component{
                                         <a class="text-decoration-none  text-primary" href="https://github.com/nithinkarnam/art_gallery_frontend" target="_blank">Git repository Link </a>
                                         &ensp; &ensp;
                                         <a class="text-decoration-none  text-primary" href="https://artfolio-eight.vercel.app/" target="_blank">Website Link</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card mb-10">
+                                    <div class="card-image-top text-center" ><img style={{height:"10rem"}} class="img-fluid" src={custchurn} alt="pic"></img></div>
+                                    <div class="card-body">
+                                        <h3 class="card-title">Advancing Customer Churn Prediction through 
+Hybrid Deep Learning Architectures</h3>
+                                        <a class="text-decoration-none  text-primary" href="https://github.com/nithinkarnam/customer-churn-prediction-using-a-novel-approach" target="_blank">Git repository Link </a>
+                                        &ensp; &ensp;                                    
                                     </div>
                             </div>
                         </div>
