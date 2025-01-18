@@ -19,14 +19,15 @@ class Projects extends Component{
                             </div>
                             <div class="col-md-7">
                                 <div class="card-body">
-                                    <h3 class="card-title">Machine Learning intern at <a href='https://www.goyaana.com/landing' target="_blank"> Goyaana</a></h3>
-                                    <ul>
-                                        <li>Established a secure connection to an Azure-hosted MySQL database, effectively querying and extracting intricate JSON data.</li>
-                                        <li>Applied Python for comprehensive data analysis, transforming JSON data into CSV and JSON files.</li>
-                                        <li>Demonstrated expertise in data visualization using Matplotlib and Seaborn to create insightful plots such as pie charts, correlation matrix heatmaps, and regression plots.</li>
-                                        <li>Applied machine learning techniques, including Linear Regression, for predictive modeling, showcasing the ability to train models, generate regression plots, and interpret results effectively.</li>
-                                        <li>Utilized Pandas for data preprocessing, including handling missing values and encoding categorical features with LabelEncoder and OneHotEncoder, highlighting strong data manipulation and transformation skills.</li>
-                                    </ul>
+                                   <h3 class="card-title">Data Science Intern at <a href='https://www.goyaana.com/landing' target="_blank"> Goyaana</a></h3>
+<ul>
+    <li>Performed SQL operations on data hosted in Azure servers using SQL Workbench, querying and extracting valuable customer data.</li>
+    <li>Established seamless connections between SQL databases and Python through MySQL connector to implement data analytics and machine learning models.</li>
+    <li>Analyzed customer travel data, extracting insights from user ratings to enhance the platform’s user experience.</li>
+    <li>Created insightful visualizations and applied machine learning techniques to predict customer preferences, enabling data-driven decision-making.</li>
+    <li>Contributed to developing models and analytics that supported organizational strategies and improved overall customer engagement.</li>
+</ul>
+
                                     <a class="text-decoration-none  text-primary" href="https://drive.google.com/file/d/1bneVb7ELV89N1sf4ArZJ5l89sVdKUjgI/view?usp=sharing" target="_blank">View Certificate</a>
                                 </div>
                             </div>
