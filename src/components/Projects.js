@@ -5,7 +5,7 @@ import fertilizerforecast from './fertilizerforecast.png';
 import destidive from './destidive.png';
 import agecalculator from './agecalculator.png'
 import tdetec from './tigerdetec.png'
-import custchurn from './custchurnprj.png'
+import custchurn from './custcurnprj.png'
 class Projects extends Component{
     render(){
         return(
