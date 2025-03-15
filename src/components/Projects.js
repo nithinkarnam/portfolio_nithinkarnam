@@ -40,7 +40,7 @@ class Projects extends Component {
                     <div class="row gy-4">
                         <div class="col-lg-4 col-md-6">
                             <div class="card mb-10">
-                                    <div class="card-image-top text-center"><img style={{ height: "10rem" }} class="img-fluid" src={artgallery} alt="pic"></img></div>
+                                    <div class="card-image-top text-center"><img style={{height:"10rem"}} class="img-fluid" src={artgallery} alt="pic"></img></div>
                                     <div class="card-body">
                                         <h3 class="card-title">Art Gallery(Using MERN)</h3>
                                         <a class="text-decoration-none text-primary" href="https://github.com/nithinkarnam/art_gallery_frontend" target="_blank" rel="noopener noreferrer">Git repository Link </a>
@@ -51,7 +51,7 @@ class Projects extends Component {
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="card mb-10">
-                                    <div class="card-image-top text-center"><img style={{ height: "10rem" }} class="img-fluid" src={custchurn} alt="pic"></img></div>
+                                    <div class="card-image-top text-center"><img style={{height:"10rem"}} class="img-fluid" src={custchurn} alt="pic"></img></div>
                                     <div class="card-body">
                                         <h3 class="card-title">Advancing Customer Churn Prediction through Hybrid Deep Learning Architectures</h3>
                                         <a class="text-decoration-none text-primary" href="https://github.com/nithinkarnam/customer-churn-prediction-using-a-novel-approach" target="_blank" rel="noopener noreferrer">Git repository Link </a>
@@ -61,7 +61,7 @@ class Projects extends Component {
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="card mb-10">
-                                    <div class="card-image-top text-center"><img style={{ height: "10rem" }} class="img-fluid" src={fertilizerforecast} alt="pic"></img></div>
+                                    <div class="card-image-top text-center"><img style={{height:"10rem"}} class="img-fluid" src={fertilizerforecast} alt="pic"></img></div>
                                     <div class="card-body">
                                         <h3 class="card-title">Fertilizer Forecast Using ML</h3>
                                         <a class="text-decoration-none text-primary" href="https://github.com/nithinkarnam/model_prediction-fertilizer" target="_blank" rel="noopener noreferrer">Git repository Link </a>
@@ -72,7 +72,7 @@ class Projects extends Component {
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="card mb-10">
-                                    <div class="card-image-top text-center"><img style={{ height: "10rem" }} class="img-fluid" src={tdetec} alt="pic"></img></div>
+                                    <div class="card-image-top text-center"><img style={{height:"10rem"}} class="img-fluid" src={tdetec} alt="pic"></img></div>
                                     <div class="card-body">
                                         <h3 class="card-title">Tiger Detection and Classification using Transfer Learning</h3>
                                         <a class="text-decoration-none text-primary" href="https://github.com/nithinkarnam/tigerdetectiondlresnet" target="_blank" rel="noopener noreferrer">Git repository Link </a>
