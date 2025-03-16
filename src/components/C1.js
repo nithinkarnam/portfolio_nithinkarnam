@@ -1,5 +1,5 @@
 import {Component} from 'react';
-import logo_png from './logo.png';
+import logo_png from './knlogo.png';
 import { Link } from 'react-router-dom';
 class C1 extends Component{
     render(){
