@@ -82,7 +82,7 @@ class Projects extends Component {
                         </div>
                         <div className="col-lg-4 col-md-6">
                             <div className="card mb-10">
-                                <div className="card-image-top text-center"><img style={{ height: "10rem" }} className="img-fluid" src={fertilizerforecast} alt="Transaction Analysis" /></div>
+                                <div className="card-image-top text-center"><img style={{ height: "10rem" }} className="img-fluid" src={transactionanalysis} alt="Transaction Analysis" /></div>
                                 <div className="card-body">
                                     <h3 className="card-title">Power BI Transaction Analysis Dashboard</h3>
                                     <a className="text-decoration-none text-primary" href="https://github.com/nithinkarnam/Power-BI-Transaction-Analysis-Dashboard" target="_blank" rel="noopener noreferrer">Git repository Link</a>
