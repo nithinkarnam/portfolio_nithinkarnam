@@ -6,6 +6,7 @@ import destidive from './destidive.png';
 import agecalculator from './agecalculator.png';
 import tdetec from './tigerdetec.png';
 import custchurn from './custcurnprj.png';
+import transactionanalysis from './transactionanalysis.png';
 
 class Projects extends Component {
     render() {
@@ -76,6 +77,17 @@ class Projects extends Component {
                                     <a className="text-decoration-none text-primary" href="https://github.com/nithinkarnam/tigerdetectiondlresnet" target="_blank" rel="noopener noreferrer">Git repository Link</a>
                                     &ensp; &ensp;
                                     <a className="text-decoration-none text-primary" href="#" target="_blank" rel="noopener noreferrer">Website Link</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6">
+                            <div className="card mb-10">
+                                <div className="card-image-top text-center"><img style={{ height: "10rem" }} className="img-fluid" src={fertilizerforecast} alt="Transaction Analysis" /></div>
+                                <div className="card-body">
+                                    <h3 className="card-title">Power BI Transaction Analysis Dashboard</h3>
+                                    <a className="text-decoration-none text-primary" href="https://github.com/nithinkarnam/Power-BI-Transaction-Analysis-Dashboard" target="_blank" rel="noopener noreferrer">Git repository Link</a>
+                                    &ensp; &ensp;
+                                    <a className="text-decoration-none text-primary" href="https://github.com/nithinkarnam/Power-BI-Transaction-Analysis-Dashboard" target="_blank" rel="noopener noreferrer">Website Link</a>
                                 </div>
                             </div>
                         </div>
